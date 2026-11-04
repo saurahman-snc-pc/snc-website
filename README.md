@@ -18,6 +18,6 @@ Static website for saudinexogen.com. No build step: upload these files as they a
 
 ## Still to replace
 
-- Photos in img/ are temporary Unsplash images: replace with real SNC site photos, keeping the same file names.
+- Photos in img/ are temporary stock images: replace with real SNC site photos, keeping the same file names.
 - WhatsApp button: add the business WhatsApp number.
 - Arabic version: included (EN / عربي switch in the header); have a native speaker review the wording before launch.
